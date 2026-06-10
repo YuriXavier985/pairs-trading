@@ -15,10 +15,10 @@ Implementação quantitativa de uma estratégia de **arbitragem estatística lon
 | Retorno acumulado | **77,07%** | 52,77% | 62,75% |
 | Retorno anualizado | **17,78%** | 12,89% | 15,00% |
 | Volatilidade anual | 15,36% | — | — |
-| Sharpe anualizado | 0,399 | — | — |
-| Maximum Drawdown | -10,79% | — | — |
-| Beta vs Ibovespa | 0,1677 | — | — |
-| Correlação Ibovespa | 0,1984 | — | — |
+| Sharpe anualizado | 0,3990 | — | — |
+| Maximum Drawdown | -8,71% | — | — |
+| Beta vs Ibovespa | 0,1001 | — | — |
+| Correlação Ibovespa | 0,1537 | — | — |
 
 > **Período:** 04/07/2022 → 30/12/2025 (3,49 anos) · **Dias ativos:** 425 de 866 · **Custos de transação:** 0,10% por operação
 
