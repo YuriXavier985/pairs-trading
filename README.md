@@ -15,7 +15,7 @@ Implementação quantitativa de uma estratégia de **arbitragem estatística lon
 | Retorno acumulado | **77,07%** | 52,77% | 62,75% |
 | Retorno anualizado | **17,78%** | 12,89% | 15,00% |
 | Volatilidade anual | 15,36% | — | — |
-| Sharpe anualizado | 0,5689 | — | — |
+| Sharpe anualizado | 0,399 | — | — |
 | Maximum Drawdown | -10,79% | — | — |
 | Beta vs Ibovespa | 0,1677 | — | — |
 | Correlação Ibovespa | 0,1984 | — | — |
