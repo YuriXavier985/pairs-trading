@@ -82,8 +82,11 @@ O hedge ratio é calculado **dinamicamente pelo Filtro de Kalman**, inicializado
 
 O gráfico abaixo ilustra o spread padronizado entre dois pares identificados pela estratégia, com as bandas de entrada (±2σ), saída (±0,5σ) e stop (±3σ):
 
+## Exemplo de Pares Cointegrados
+
 ![Spread CEAB3 x CPFE3](spread_CEAB3_CPFE3.png)
 ![Spread EGIE3 x GGBR4](spread_EGIE3_GGBR4.png)
+![Spread EQTL3 x RAIL3](spread_EQTL3_RAIL3.png)
 
 ---
 
