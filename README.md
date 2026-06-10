@@ -32,7 +32,7 @@ A estratégia opera em janelas rolantes de **12 meses de estimação + 6 meses d
 
 ### 1. Seleção do universo e filtragem de estacionariedade
 
-- Download dos log-preços diários das 50 ações mais líquidas do Ibovespa em cada janela
+- Download dos log-preços diários das 50 ações mais líquidas do Ibovespa 
 - Exclusão de séries que rejeitam a hipótese de raiz unitária pelo teste ADF em nível (séries I(0))
 - Aplicação conjunta dos testes ADF e KPSS em nível e em primeira diferença; séries com resultado conflitante entre os dois testes são excluídas
 - Apenas séries confirmadas como **I(1)** entram no teste de cointegração
